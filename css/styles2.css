@@ -1,0 +1,132 @@
+.peaks {
+
+    background-image: url("./peaks.svg");
+
+}
+
+body {
+
+    margin: 0;
+    font-family: sans-serif;
+    color: white;
+    background: #202731;
+   
+
+}
+
+section {
+
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    min-height: 400px;
+    padding: 100px 20vw; /*total view port width*/
+  
+
+}
+
+
+.blue {
+    background: blue;
+}
+
+.red {
+    background: red;
+}
+
+.pink {
+    background: pink;
+}
+
+.dark {
+    background: #e39906;
+}
+
+/* svgs */
+
+.custom-shape-divider-top-1667972235 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1667972235 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 95px;
+}
+
+.custom-shape-divider-top-1667972235 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/*  */
+.wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.wave svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 79px;
+}
+
+.wave .shape-fill {
+    fill: #202731;
+}
+
+/*  */
+
+.custom-shape-divider-bottom-1667972468 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1667972468 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 146px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1667972468 .shape-fill {
+    fill: red;
+}
+
+
+/*haikei*/
+
+.spacer {
+
+    aspect-ratio: 960/300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+
+}
+
+
+
+
+
+
