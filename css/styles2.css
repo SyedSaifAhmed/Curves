@@ -1,6 +1,26 @@
 .peaks {
 
-    background-image: url("./peaks.svg  ");
+    /* background-image: url("./images\peaks.svg"); */
+    /* background-image: url("C:\\Users\\Syed Saif Ahmed\\OneDrive - aus.edu\\Desktop\\Projects\\Curves\\images\\peaks.svg"); */
+    background-image: url("../images/peaks.svg");
+}
+
+.bg {
+
+    background-image: url("../images/scatter.svg");
+    /* width: 100%; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.layer1 {
+
+
+    background-image: url("../images/wave-red.svg");
+
 
 }
 
