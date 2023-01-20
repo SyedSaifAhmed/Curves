@@ -1,14 +1,15 @@
 # Curves
 
-Different types of tool were used to experiment adding curves to a website. 
+Different types of tools were used to experiment adding curves to a website. 
 
 
 index.html used: 
-https://getwaves.io/
-
-index2.html used:
 https://www.shapedivider.app/
 https://app.haikei.app/
+
+index2.html used:
+
+https://getwaves.io/
 
 
 
@@ -18,5 +19,7 @@ https://app.haikei.app/
     https://www.youtube.com/watch?v=3owx2vJHkv4
 
 
-# This Is Test Branch
+# Demo 
+
+https://curves-16ff5.web.app/
  
